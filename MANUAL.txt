@@ -1,0 +1,7 @@
+READ ME - CIS 442 PROJECT - NICK CABRAL
+
+Step 1: Open "CIS442Project.py" in an IDE of your choosing. 
+
+Step 2: Once opened change the path at the top to whatever path your file with your test cases is stored 
+
+Step 3: Run program in the IDE and the console will state what files were detected as not a match with it's respected file signature 
