@@ -1,7 +1,10 @@
 READ ME - CIS 442 PROJECT - NICK CABRAL
 
+This project aims to detect when a file extension has been changed. To do this the program will compare the file signature of a given file to a list of different file signatures. If the signature is different from what the file is masquerading as it will be detected in the terminal. 
+
+
 Step 1: Open "CIS442Project.py" in an IDE of your choosing. 
 
 Step 2: Once opened change the path at the top to whatever path your file with your test cases is stored 
 
-Step 3: Run program in the IDE and the console will state what files were detected as not a match with it's respected file signature 
+Step 3: Run the program in the IDE and the console will state what files were detected as not a match with their respective file signature 
